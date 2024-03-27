@@ -1,3 +1,4 @@
 teszt sor 1
 teszt sor 2
 teszt sor 3
+teszt sor 4
